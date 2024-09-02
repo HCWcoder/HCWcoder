@@ -1,4 +1,3 @@
-# 💫 About Me:
 🛠️ I’m currently working on<br>- **Tribals.io** - A survival game with a focus on crafting, hunting, and resource management.<br>- **Optimizing Game Performance** - Implementing server-side and client-side optimizations to improve game performance and player experience.<br>- **Web Development Projects** - Creating and maintaining web applications using technologies like Vue.js, Node.js, and PlayCanvas.<br><br>👥 I’m looking to collaborate on<br>- **Game Development Projects** - Collaborating with other developers, designers, and artists to create immersive gaming experiences.<br>- **Full Stack Development** - Working on innovative web applications that require seamless integration between front-end and back-end technologies.<br>- **Open Source Projects** - Contributing to or starting open-source projects related to game development or web development tools.<br><br>🤝 I’m looking for help with<br>- **Enhancing Game Mechanics** - Seeking advice or collaboration on fine-tuning game mechanics, especially in areas like AI, physics, and user interaction.<br>- **Scaling Applications** - Looking for best practices and strategies to scale web and game applications to handle a large number of users.<br>- **Integrating New Technologies** - Exploring new technologies that can improve game development workflows or enhance the capabilities of web applications.<br><br>🌱 I’m currently learning<br>- **Advanced Game AI** - Learning about advanced AI techniques to create more dynamic and intelligent NPCs in games.<br>- **3D Character Modelling** - Improving skills in 3D modeling to create more realistic and diverse character models.<br>- **Cloud Infrastructure** - Gaining knowledge in cloud services to deploy and manage scalable web and game servers.<br><br>💬 Ask me about<br>- **Game Development with PlayCanvas** - Insights on using PlayCanvas for building browser-based 3D games.<br>- **Full Stack Development** - Tips on managing both front-end and back-end development efficiently.<br>- **Optimizing Web and Game Performance** - Techniques to enhance the speed and responsiveness of your applications.<br><br>⚡ Fun fact<br>- **I love exploring new game mechanics** - Whether it's creating something entirely new or putting a twist on an old favorite, I enjoy finding innovative ways to engage players.
 
 
@@ -14,9 +13,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hcwcoder&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hcwcoder&icon=5&color=8)](https://visitcount.itsvg.in)
